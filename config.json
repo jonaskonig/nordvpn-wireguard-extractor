@@ -1,0 +1,8 @@
+{
+  "privatekey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "allowedip": "0.0.0.0/0",
+  "adress": "10.5.0.2/32",
+  "url": "https://api.nordvpn.com/v1/servers?&limit=",
+  "limit": "7000",
+  "outputdir": "/your/output/dir/"
+}
